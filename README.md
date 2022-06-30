@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Li Zhang
-- 👀 I’m interested in developing and solving problems
+- 👀 I’m interested in coding and solving problems
 - 🌱 I’m currently learning Python and Javascript
 - 📫 How to reach me : zhangli0623janet@gmail.com
 
