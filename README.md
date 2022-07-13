@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Li Zhang
 - 👀 I’m interested in coding and solving problems
-- 🌱 I’m currently learning Python and Javascript
+- 🌱 I’m currently learning Python and Flask
 - 📫 How to reach me : zhangli0623janet@gmail.com
 
 <!---
