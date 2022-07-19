@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Li Zhang
 - 👀 I’m interested in coding and solving problems
-- 🌱 I’m currently learning Python and Flask
+- 🌱 I’m currently learning Amazon Web Service(AWS)
 - 📫 How to reach me : zhangli0623janet@gmail.com
 
 <!---
