@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Li Zhang
-- 👀 I'm passionate about learning new skills and I’m interested in coding and solving problems.
-- 🌱 I’m currently learning Amazon Web Service(AWS)
+- 👀 I'm passionate about learning new skills
+- 🌱 I’m interested in coding and solving problems
 - 📫 How to reach me : zhangli0623janet@gmail.com
 
 <!---
